@@ -144,7 +144,7 @@ sections:
     title: Online shops and services in Mauritius
   - section_id: text-img
     type: section_content
-    image: images/recommended-top-quality-online-store.jpeg
+    image: images/recommended-online-stores.jpeg
     image_position: left
     title: 'Check for reviews: what do others say?'
     content: >
