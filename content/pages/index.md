@@ -22,7 +22,7 @@ sections:
           ![](/images/Flowers-delivery-Mauritius-florist-online.jpeg)
 
 
-          **Customers reviews: **⭐ ⭐ ⭐ ⭐ ⭐ Very impressive! Swift same day
+          **Customers reviews:**⭐ ⭐ ⭐ ⭐ ⭐ Very impressive! Swift same day
           delivery of flowers at a very busy time just before Christmas. I even
           received a confirmation email upon delivery. All this for a very
           reasonable price.
