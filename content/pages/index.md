@@ -95,7 +95,7 @@ sections:
           create a unique and fascinating experience for your team, producing a
           team bonding event that will be remembered.
         actions:
-          - label: Learn More
+          - label: TeamBuilding
             url: /style-guide
             style: link
       - title: Moving & Delivery Services
