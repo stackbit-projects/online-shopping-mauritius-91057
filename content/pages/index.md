@@ -76,6 +76,10 @@ sections:
           ![](/images/remarkable-neptune.jpeg)
 
 
+          #### The leading Corporate Team Building and Sport Entertainment
+          provider in Mauritius.
+
+
           **Customers reviews:**  ⭐ ⭐ ⭐ ⭐ ⭐ Every game was fun. The way the
           facilitators (Pascal and team) conducted the activities were very much
           enjoyable. They could maintain the fun all along during the day. We
@@ -85,15 +89,13 @@ sections:
           a success. Mie,  CODL Team building
 
 
-          **Description:** The leading Corporate Team Building and Sport
-          Entertainment provider in Mauritius. Passionate for teamwork and
-          leadership, TeamBuilding Mauritius aims to exceed clients expectations
-          with creative tailor-made design and professional delivery of all
-          corporate events. With [unique team building
-          activities](https://teambuilding.mu) - Bowfighters Archery Paintball,
-          Siege the Castle, KanJam Relay, Amazing Race and many others - they
-          create a unique and fascinating experience for your team, producing a
-          team bonding event that will be remembered.
+          **Description:** Passionate for teamwork and leadership, TeamBuilding
+          Mauritius aims to exceed clients expectations with creative
+          tailor-made design and professional delivery of all corporate events.
+          With [unique team building activities](https://teambuilding.mu) -
+          Bowfighters Archery Paintball, Siege the Castle, KanJam Relay, Amazing
+          Race and many others - they create a unique and fascinating experience
+          for your team, producing a team bonding event that will be remembered.
         actions:
           - label: Team Building Activities
             url: 'https://teambuilding.mu'
