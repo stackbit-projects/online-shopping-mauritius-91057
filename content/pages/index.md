@@ -77,16 +77,6 @@ sections:
             url: /style-guide
             style: link
     title: Grid section
-  - section_id: text-img
-    type: section_content
-    image: images/jamstack.svg
-    image_position: left
-    title: A Section With An Image
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
-    actions: []
   - title: lorem-ipsum
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
@@ -116,6 +106,16 @@ sections:
             type: action
         type: grid_item
     type: section_grid
+  - section_id: text-img
+    type: section_content
+    image: images/jamstack.svg
+    image_position: left
+    title: A Section With An Image
+    content: >-
+      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
+      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
+      consectetur lobortis.
+    actions: []
   - section_id: cta
     type: section_cta
     title: The Title of The Call to Action Block
