@@ -146,7 +146,7 @@ sections:
     type: section_content
     image: images/jamstack.svg
     image_position: left
-    title: A Section With An Image
+    title: 'Check for reviews:What do others say?'
     content: >
       When shopping online, you don’t want to worry about whether your order
       will actually arrive or whether you will get your money back in case of a
