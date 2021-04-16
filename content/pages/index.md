@@ -162,7 +162,7 @@ sections:
         style: primary
   - section_id: text-no-img
     type: section_content
-    title: A Section Without Image
+    title: Contact us
     content: >
       If you operate an online shopping website in Mauritius and want to be
       reviewed here - please feel free to contact us.
