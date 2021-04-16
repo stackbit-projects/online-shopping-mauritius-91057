@@ -199,7 +199,10 @@ seo:
     - name: 'twitter:title'
       value: 'Online Shopping Mauritius: Best e-Shops & Delivery Services'
     - name: 'twitter:description'
-      value: The preview of the Libris theme
+      value: >-
+        Your guide to the growing sector of online shopping in Mauritius. List
+        of most popular Mauritius online shops and delivery services based on
+        customers reviews.
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
