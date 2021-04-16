@@ -44,7 +44,7 @@ sections:
             style: link
   - section_id: features
     type: section_grid
-    col_number: three
+    col_number: two
     grid_items:
       - title: Documentation
         content: >
