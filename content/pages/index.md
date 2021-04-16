@@ -109,20 +109,23 @@ sections:
           people and businesses of all sizes.
 
 
-          Bongéni Delivery and Moving is a faster, easier and cheaper way to
-          send anything around Mauritius.
+          **Customers reviews:**  ⭐ ⭐ ⭐ ⭐ ⭐ Highly recommended! Easy to use App,
+          never had to follow up on delivery due to live tracking. What a
+          pleasure, will most definitely be a returning customer! Lizarn Smith,
+          Mauritius
 
-          From forgotten keys to new furniture, you can send anything across
-          Mauritius right away.
 
-          Know fixed delivery rate upfront in the app. Pay to the driver by cash
-          or MCB Juice.
-
-          Place you order in the app and have the driver at pick-up within 30
-          minutes.
-
-          Bongeni App makes it easy: allowing you to schedule pick-up of your
-          order, track it in the app and know when your deliveries have arrived.
+          **Description:** Bongéni Moving and Delivery and is a faster, easier
+          and cheaper way to send anything around Mauritius. From forgotten keys
+          to new furniture, you can send anything across Mauritius right away.
+          Planning an [office or apartment
+          moving](https://bongeni.mu/apartment-moving-services.html)? Don’t
+          waste your time or money, book Bongéni on-demand moving services at an
+          affordable price. Know fixed delivery rate upfront in the app. Pay to
+          the driver by cash or MCB Juice. Place you order in the app and have
+          the driver at pick-up within 30 minutes. Bongeni App makes it easy:
+          allowing you to schedule pick-up of your order, track it in the app
+          and know when your deliveries have arrived.
         actions:
           - label: lorem-ipsum
             url: '#'
