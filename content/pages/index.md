@@ -205,7 +205,7 @@ seo:
         of most popular Mauritius online shops and delivery services based on
         customers reviews.
     - name: 'twitter:image'
-      value: /images/smart-mango.jpeg
+      value: /images/Online-shopping-Mauritius-e-commerce-online-internet-shops.jpeg
       relativeUrl: true
 layout: advanced
 ---
