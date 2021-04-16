@@ -69,7 +69,7 @@ sections:
           choose the right deal at the right price.
         actions:
           - label: Telecom & Insurance Quotes
-            url: /blog
+            url: 'https://ucompare.mu'
             style: link
       - title: Team Building Activities
         content: >
