@@ -123,10 +123,9 @@ sections:
   - section_id: text-no-img
     type: section_content
     title: A Section Without Image
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      If you operate an online shopping website in Mauritius and want to be
+      reviewed here - please feel free to contact us.
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
