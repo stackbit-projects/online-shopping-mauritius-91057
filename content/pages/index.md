@@ -35,6 +35,7 @@ sections:
             type: action
       - title: Blog
         content: >
+          ![](/images/insurance-comparison-site-Mauritius.jpg)
 
 
           UCompare is a free price comparison service that helps Mauritius
