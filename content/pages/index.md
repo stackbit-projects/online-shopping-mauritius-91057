@@ -80,6 +80,7 @@ sections:
             url: /style-guide
             style: link
     title: Grid section
+    subtitle: Subtitle
   - title: lorem-ipsum
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
