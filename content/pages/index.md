@@ -17,7 +17,7 @@ sections:
     type: section_grid
     col_number: two
     grid_items:
-      - title: Documentation
+      - title: Gifts&Flowers Delivery
         content: >
           ![](/images/Flowers-delivery-Mauritius-florist-online.jpeg)
 
