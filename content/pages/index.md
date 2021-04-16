@@ -20,7 +20,10 @@ sections:
     col_number: three
     grid_items:
       - title: Documentation
-        content: >-
+        content: >
+          ![](/images/Online-shopping-Mauritius-e-commerce-online-internet-shop.jpeg)
+
+
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
           tincidunt ut tellus. Vivamus rhoncus mattis varius.
