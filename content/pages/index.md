@@ -64,11 +64,8 @@ sections:
           ## ![](/images/moving-delivery-services-Mauritius.png)
 
 
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Express and scheduled moving and delivery service for Mauritius people
+          and businesses of all sizes.
 
 
           *   Lorem ipsum
