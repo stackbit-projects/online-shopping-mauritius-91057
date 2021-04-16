@@ -20,6 +20,7 @@ sections:
           ![](/images/Flowers-delivery-Mauritius-florist-online.jpeg)
 
 
+          #### Flowers Delivery Mauritius - 100% Freshness Guaranteed
 
 
           **Customers reviews:**  ⭐ ⭐ ⭐ ⭐ ⭐ Top class service. Flowers were
