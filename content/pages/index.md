@@ -22,19 +22,22 @@ sections:
           ![](/images/Flowers-delivery-Mauritius-florist-online.jpeg)
 
 
-          Quality fresh roses and luxury flowers from your florist in Mauritius.
-          Add chocolates, balloons, and unique handmade gifts. Same day flowers
-          delivery available.
+          **Customers reviews: **⭐ ⭐ ⭐ ⭐ ⭐ Very impressive! Swift same day
+          delivery of flowers at a very busy time just before Christmas. I even
+          received a confirmation email upon delivery. All this for a very
+          reasonable price.
 
-          Creating beautiful freshly-made flower bouquets and flower
-          arrangements wrapped elegantly and delivered to any location in
-          Mauritius. We always deliver flowers by hand using Bongéni same day
-          flower delivery fleet.
 
-          Whether you are shopping for fresh roses, birthday flowers,
-          anniversary flowers, thank you flowers or any other flower gift, we
-          will ensure your present will look perfect! Flower delivery in
-          Mauritius is easy with DodoMarket florist online.
+          **Description:** Quality fresh roses and luxury flowers from your
+          florist in Mauritius. Add chocolates, balloons, and unique handmade
+          gifts. Same day flowers delivery available. Creating beautiful
+          freshly-made flower bouquets and flower arrangements wrapped elegantly
+          and delivered to any location in Mauritius. We always deliver flowers
+          by hand using Bongéni same day flower delivery fleet. Whether you are
+          shopping for fresh roses, birthday flowers, anniversary flowers, thank
+          you flowers or any other flower gift, we will ensure your present will
+          look perfect! Flower delivery in Mauritius is easy with DodoMarket
+          florist online.
         actions:
           - label: lorem-ipsum
             url: '#'
