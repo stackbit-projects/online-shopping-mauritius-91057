@@ -73,7 +73,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
-    title: Grid section
+    title: Online shops and online services
     subtitle: Subtitle
   - section_id: text-img
     type: section_content
