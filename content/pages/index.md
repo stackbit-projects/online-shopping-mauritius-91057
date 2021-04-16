@@ -61,9 +61,10 @@ sections:
 
           **Description:** UCompare is a free price comparison service that
           helps Mauritius consumers to compare prices and find the best deals on
-          mobile packages, broadband internet, car and home insurance. UCompare
-          makes sure you always get the right mobile or broadband internet
-          packages, home or [car insurance quotes
+          mobile packages, broadband internet, car and [home
+          insurance](https://ucompare.mu/best-home-insurance-quote-comparison/).
+          UCompare makes sure you always get the right mobile or broadband
+          internet packages, home or [car insurance quotes
           comparison](https://ucompare.mu/best-car-insurance-quote-comparison/),
           and never spend more than you have to. Whether you’re switching
           providers or comparing the rates for the first time, UCompare aims to
