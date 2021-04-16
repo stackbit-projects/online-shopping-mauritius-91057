@@ -159,7 +159,7 @@ sections:
     title: Check Best Flower Delivery Companies
     subtitle: Order bouquets & flowers delivery from the best local florists.
     actions:
-      - label: Get Started
+      - label: Check now
         url: /docs/getting-started/installation
         style: primary
   - section_id: text-no-img
