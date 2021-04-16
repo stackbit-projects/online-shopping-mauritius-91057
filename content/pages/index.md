@@ -55,9 +55,6 @@ sections:
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
       consectetur lobortis.
     actions:
-      - label: View Demo
-        url: /docs/getting-started
-        style: primary
       - label: Get Started
         url: /docs/getting-started
         style: secondary
