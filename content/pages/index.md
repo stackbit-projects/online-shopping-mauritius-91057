@@ -168,7 +168,7 @@ seo:
         services.
       keyName: property
     - name: 'og:image'
-      value: /images/insurance-comparison-site-Mauritius.jpg
+      value: /images/Online-shopping-Mauritius-e-commerce-online-internet-shop.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
