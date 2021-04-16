@@ -34,9 +34,10 @@ sections:
             no_follow: false
             type: action
       - title: Blog
-        content: |+
+        content: |
           ![](/images/Teambuilding-activities-Mauritius.jpeg)
 
+          Sample text.
         actions:
           - label: View Posts
             url: /blog
