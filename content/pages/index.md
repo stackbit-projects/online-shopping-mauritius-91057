@@ -36,8 +36,9 @@ sections:
           by hand using Bongéni same day flower delivery fleet. Whether you are
           shopping for fresh roses, birthday flowers, anniversary flowers, thank
           you flowers or any other flower gift, we will ensure your present will
-          look perfect! [Flower delivery in Mauritius](https://dodomarket.mu) is
-          easy with DodoMarket florist online.
+          look perfect! [Flower delivery in
+          Mauritius](https://dodomarket.mu/collections/flowers-delivery-mauritius-boutique-florist)
+          is easy with DodoMarket florist online.
         actions:
           - label: lorem-ipsum
             url: '#'
