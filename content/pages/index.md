@@ -156,7 +156,7 @@ sections:
     actions: []
   - section_id: cta
     type: section_cta
-    title: Check Best Flower Delivery Companies
+    title: Check Best Flower Delivery Companies Guide
     subtitle: Order bouquets & flowers delivery from the best local florists.
     actions:
       - label: Check now
