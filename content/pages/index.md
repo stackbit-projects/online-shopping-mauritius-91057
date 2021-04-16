@@ -128,7 +128,7 @@ sections:
           and know when your deliveries have arrived.
         actions:
           - label: lorem-ipsum
-            url: 'https://bongeni.mu/apartment-moving-services.html'
+            url: 'https://bongeni.mu/'
             style: link
             icon_class: dev
             new_window: false
