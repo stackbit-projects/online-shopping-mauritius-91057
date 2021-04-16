@@ -80,7 +80,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
-    title: Online shops and online services
+    title: Online shops and services in Mauritius
     subtitle: Subtitle
   - section_id: text-img
     type: section_content
