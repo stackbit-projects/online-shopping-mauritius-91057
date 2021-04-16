@@ -186,9 +186,9 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Your guide to the growing sector of online shopping in Mauritius. We
-        have tested and reviewed the best Mauritius online shops & delivery
-        services.
+        Your guide to the growing sector of online shopping in Mauritius. List
+        of most popular Mauritius online shops and delivery services based on
+        customers reviews.
       keyName: property
     - name: 'og:image'
       value: /images/Online-shopping-Mauritius-e-commerce-online-internet-shops.jpeg
