@@ -52,8 +52,9 @@ sections:
           ![](/images/insurance-comparison-site-Mauritius.jpg)
 
 
-          Very competitive quote compared with my renewal quote from my existing
-          insurers and easy to finalise everything.
+          \*\*Customers reviews:\*\*⭐ ⭐ ⭐ ⭐ ⭐ Very competitive quote compared
+          with my renewal quote from my existing insurers and easy to finalise
+          everything. Bruno Appadoo, Mauritius.
 
 
           UCompare is a free price comparison service that helps Mauritius
