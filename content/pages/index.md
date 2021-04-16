@@ -34,9 +34,9 @@ sections:
             no_follow: false
             type: action
       - title: Blog
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: |+
+          ![](/images/Teambuilding-activities-Mauritius.jpeg)
+
         actions:
           - label: View Posts
             url: /blog
