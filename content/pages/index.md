@@ -159,7 +159,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Libris Theme
+      value: 'Online Shopping Mauritius: Best e-Shops & Delivery Services'
       keyName: property
     - name: 'og:description'
       value: >-
