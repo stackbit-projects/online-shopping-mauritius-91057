@@ -40,8 +40,7 @@ sections:
           Mauritius](https://dodomarket.mu/collections/flowers-delivery-mauritius-boutique-florist)
           is easy with DodoMarket florist online.
         actions:
-          - url: >-
-              https://dodomarket.mu/collections/flowers-delivery-mauritius-boutique-florist
+          - url: 'https://dodomarket.mu/'
             style: link
             icon_class: dev
             new_window: false
