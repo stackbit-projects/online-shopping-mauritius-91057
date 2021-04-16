@@ -168,7 +168,7 @@ seo:
         services.
       keyName: property
     - name: 'og:image'
-      value: /images/majestic-dolphin.jpeg
+      value: /images/oval-sun.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
