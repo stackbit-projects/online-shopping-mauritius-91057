@@ -191,7 +191,7 @@ seo:
         services.
       keyName: property
     - name: 'og:image'
-      value: /images/Online-shopping-Mauritius-e-commerce-online-internet-shop.jpeg
+      value: /images/Online-shopping-Mauritius-e-commerce-online-internet-shops.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
