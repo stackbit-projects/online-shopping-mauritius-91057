@@ -19,7 +19,7 @@ sections:
     grid_items:
       - title: Documentation
         content: >
-          ![](/images/Online-shopping-Mauritius-e-commerce-online-internet-shop.jpeg)
+          ![](/images/Flowers-delivery-Mauritius-florist-online.jpeg)
 
 
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
