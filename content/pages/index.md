@@ -6,10 +6,16 @@ sections:
     title: Online Shopping in Mauritius
     image: images/5.jpg
     content: >
+      One of the world’s most dynamic countries for e-commerce, Mauritius is a
+      small, but growing market for online shopping, still having some space for
+      some new strong, local companies, both established online stores, and pure
+      e-commerce players.
+
+
       Mauritius Online is your guide to the growing sector of online shopping in
       Mauritius. We have collected the most popular Mauritius online shops and
       delivery services. Our reviews are based on the customers feedbacks and
-      independent reviews available online. 
+      independent reviews available online.
     actions: []
   - section_id: features
     type: section_grid
