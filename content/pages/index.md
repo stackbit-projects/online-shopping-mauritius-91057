@@ -127,7 +127,7 @@ sections:
           allowing you to schedule pick-up of your order, track it in the app
           and know when your deliveries have arrived.
         actions:
-          - label: lorem-ipsum
+          - label: Moving and Delivery Service
             url: 'https://bongeni.mu/'
             style: link
             icon_class: dev
