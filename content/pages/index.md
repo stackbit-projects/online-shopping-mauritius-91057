@@ -160,7 +160,7 @@ sections:
     subtitle: Order bouquets & flowers delivery from the best local florists.
     actions:
       - label: Check now
-        url: /docs/getting-started/installation
+        url: 'https://amazing-florist.netlify.app/'
         style: primary
   - section_id: text-no-img
     type: section_content
