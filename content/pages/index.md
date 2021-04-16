@@ -169,11 +169,8 @@ sections:
       One of the world’s most dynamic countries for e-commerce, Mauritius is a
       small, but growing market for online shopping, still having some space for
       some new strong, local companies, both established online stores, and pure
-      e-commerce players.
-
-
-      If you operate an online shopping website in Mauritius and want to be
-      reviewed here - please feel free to contact us.
+      e-commerce players. If you operate an online shopping website in Mauritius
+      and want to be reviewed here - please feel free to contact us.
     actions: []
 seo:
   title: 'Online Shopping Mauritius: Best e-Shops & Delivery Services'
