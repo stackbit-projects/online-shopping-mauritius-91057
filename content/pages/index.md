@@ -22,9 +22,9 @@ sections:
           ![](/images/Flowers-delivery-Mauritius-florist-online.jpeg)
 
 
-          **Customers reviews:**⭐ ⭐ ⭐ ⭐ ⭐ Top class service. Flowers were
+          \*\*Customers reviews:\*\*⭐ ⭐ ⭐ ⭐ ⭐ Top class service. Flowers were
           fabulous, on time, and easy to order would definitely recommend.
-          Samuel Rinay, Mauritius
+          Samuel Rinay, Mauritius.
 
 
           **Description:** Quality fresh roses and luxury flowers from your
@@ -35,8 +35,8 @@ sections:
           by hand using Bongéni same day flower delivery fleet. Whether you are
           shopping for fresh roses, birthday flowers, anniversary flowers, thank
           you flowers or any other flower gift, we will ensure your present will
-          look perfect! Flower delivery in Mauritius is easy with DodoMarket
-          florist online.
+          look perfect! [Flower delivery in Mauritius](https://dodomarket.mu) is
+          easy with DodoMarket florist online.
         actions:
           - label: lorem-ipsum
             url: '#'
