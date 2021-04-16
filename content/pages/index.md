@@ -10,10 +10,7 @@ sections:
       Mauritius. We have collected the most popular Mauritius online shops and
       delivery services. Our reviews are based on the customers feedbacks and
       independent reviews available online. 
-    actions:
-      - label: Get Started
-        url: /docs
-        style: primary
+    actions: []
   - section_id: features
     type: section_grid
     col_number: two
