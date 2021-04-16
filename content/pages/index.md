@@ -63,6 +63,35 @@ sections:
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
       consectetur lobortis.
     actions: []
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    col_number: three
+    grid_items:
+      - title: lorem-ipsum
+        title_url: lorem-ipsum
+        image_alt: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon_class: dev
+            new_window: false
+            no_follow: false
+            type: action
+        type: grid_item
+    type: section_grid
   - section_id: cta
     type: section_cta
     title: The Title of The Call to Action Block
@@ -106,35 +135,6 @@ sections:
       - label: Get Started
         url: /docs/getting-started/installation
         style: primary
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    col_number: three
-    grid_items:
-      - title: lorem-ipsum
-        title_url: lorem-ipsum
-        image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        actions:
-          - label: lorem-ipsum
-            url: '#'
-            style: link
-            icon_class: dev
-            new_window: false
-            no_follow: false
-            type: action
-        type: grid_item
-    type: section_grid
 seo:
   title: Stackbit Libris Theme
   description: The preview of the Libris theme
