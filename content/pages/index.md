@@ -96,7 +96,7 @@ sections:
           team bonding event that will be remembered.
         actions:
           - label: Team Building Activities
-            url: /style-guide
+            url: 'https://teambuilding.mu'
             style: link
       - title: Moving & Delivery Services
         title_url: lorem-ipsum
