@@ -54,21 +54,19 @@ sections:
           ![](/images/insurance-comparison-site-Mauritius.jpg)
 
 
-
-
           **Customers reviews:** ⭐ ⭐ ⭐ ⭐ ⭐ Very competitive quote compared with
           my renewal quote from my existing insurers and easy to finalise
           everything. Bruno Appadoo, Mauritius.
 
 
-          UCompare is a free price comparison service that helps Mauritius
-          consumers to compare prices and find the best deals on mobile
-          packages, broadband internet, car and home insurance. UCompare makes
-          sure you always get the right mobile or broadband internet packages,
-          home or car insurance, and never spend more than you have to. Whether
-          you’re switching providers or comparing the rates for the first time,
-          UCompare aims to give you all the information you need to choose the
-          right deal at the right price.
+          **Description:** UCompare is a free price comparison service that
+          helps Mauritius consumers to compare prices and find the best deals on
+          mobile packages, broadband internet, car and home insurance. UCompare
+          makes sure you always get the right mobile or broadband internet
+          packages, home or car insurance, and never spend more than you have
+          to. Whether you’re switching providers or comparing the rates for the
+          first time, UCompare aims to give you all the information you need to
+          choose the right deal at the right price.
         actions:
           - label: View Posts
             url: /blog
