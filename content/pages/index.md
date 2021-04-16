@@ -68,7 +68,7 @@ sections:
           first time, UCompare aims to give you all the information you need to
           choose the right deal at the right price.
         actions:
-          - label: View Posts
+          - label: Telecom & Insurance Quotes
             url: /blog
             style: link
       - title: Team Building Activities
