@@ -46,6 +46,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
+            label: Gifts & Flowers
       - title: Telecom & Insurance Comparison
         content: >
           ![](/images/insurance-comparison-site-Mauritius.jpg)
