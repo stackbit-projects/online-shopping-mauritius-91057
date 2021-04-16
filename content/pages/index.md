@@ -22,10 +22,9 @@ sections:
           ![](/images/Flowers-delivery-Mauritius-florist-online.jpeg)
 
 
-          **Customers reviews:**⭐ ⭐ ⭐ ⭐ ⭐ Very impressive! Swift same day
-          delivery of flowers at a very busy time just before Christmas. I even
-          received a confirmation email upon delivery. All this for a very
-          reasonable price.
+          **Customers reviews:**⭐ ⭐ ⭐ ⭐ ⭐ Top class service. Flowers were
+          fabulous, on time, and easy to order would definitely recommend.
+          Samuel Rinay, Mauritius
 
 
           **Description:** Quality fresh roses and luxury flowers from your
