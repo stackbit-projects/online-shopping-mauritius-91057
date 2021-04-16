@@ -151,7 +151,9 @@ sections:
         style: primary
 seo:
   title: 'Online Shopping Mauritius: Best e-Shops & Delivery Services'
-  description: The preview of the Libris theme
+  description: >-
+    Your guide to the growing sector of online shopping in Mauritius. We have
+    tested and reviewed the best Mauritius online shops & delivery services.
   extra:
     - name: 'og:type'
       value: website
