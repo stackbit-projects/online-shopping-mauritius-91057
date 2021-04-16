@@ -168,10 +168,7 @@ sections:
     content: >
       If you operate an online shopping website in Mauritius and want to be
       reviewed here - please feel free to contact us.
-    actions:
-      - label: Get Started
-        url: 'mailto:arc.azarine@gmail.com'
-        style: primary
+    actions: []
 seo:
   title: 'Online Shopping Mauritius: Best e-Shops & Delivery Services'
   description: >-
