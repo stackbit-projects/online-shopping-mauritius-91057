@@ -51,6 +51,9 @@ sections:
           ![](/images/insurance-comparison-site-Mauritius.jpg)
 
 
+          #### Free telecom and insurance quotes comparison service
+
+
           **Customers reviews:** ⭐ ⭐ ⭐ ⭐ ⭐ Very competitive quote compared with
           my renewal quote from my existing insurers and easy to finalise
           everything. Bruno Appadoo, Mauritius.
