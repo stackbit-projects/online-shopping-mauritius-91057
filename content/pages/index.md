@@ -64,13 +64,24 @@ sections:
           ## ![](/images/moving-delivery-services-Mauritius.png)
 
 
-          Express and scheduled moving and delivery service for Mauritius people
-          and businesses of all sizes.
+          #### Express and scheduled moving and delivery service for Mauritius
+          people and businesses of all sizes.
 
 
-          *   Lorem ipsum
+          Bongéni Delivery and Moving is a faster, easier and cheaper way to
+          send anything around Mauritius.
 
-          *   dolor sit amet
+          From forgotten keys to new furniture, you can send anything across
+          Mauritius right away.
+
+          Know fixed delivery rate upfront in the app. Pay to the driver by cash
+          or MCB Juice.
+
+          Place you order in the app and have the driver at pick-up within 30
+          minutes.
+
+          Bongeni App makes it easy: allowing you to schedule pick-up of your
+          order, track it in the app and know when your deliveries have arrived.
         actions:
           - label: lorem-ipsum
             url: '#'
