@@ -34,10 +34,12 @@ sections:
             no_follow: false
             type: action
       - title: Blog
-        content: |
-          ![](/images/Teambuilding-activities-Mauritius.jpeg)
+        content: >
 
-          Sample text.
+
+          UCompare is a free price comparison service that helps Mauritius
+          consumers to compare prices and find the best deals on mobile
+          packages, broadband internet, car and home insurance.
         actions:
           - label: View Posts
             url: /blog
