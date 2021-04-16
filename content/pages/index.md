@@ -157,7 +157,7 @@ sections:
   - section_id: cta
     type: section_cta
     title: Check Best Flower Delivery Companies
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Order bouquets & flowers delivery from the best local florists.
     actions:
       - label: Get Started
         url: /docs/getting-started/installation
