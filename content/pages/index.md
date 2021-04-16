@@ -45,6 +45,7 @@ sections:
           - label: Learn More
             url: /style-guide
             style: link
+    title: Grid section
   - section_id: text-img
     type: section_content
     image: images/jamstack.svg
