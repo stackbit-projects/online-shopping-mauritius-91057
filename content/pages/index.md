@@ -197,7 +197,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Libris Theme
+      value: 'Online Shopping Mauritius: Best e-Shops & Delivery Services'
     - name: 'twitter:description'
       value: The preview of the Libris theme
     - name: 'twitter:image'
