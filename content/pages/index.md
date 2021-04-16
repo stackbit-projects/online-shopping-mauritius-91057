@@ -7,8 +7,9 @@ sections:
     image: images/5.jpg
     content: >
       Mauritius Online is your guide to the growing sector of online shopping in
-      Mauritius. We have selected, independently tested and reviewed the most
-      popular Mauritius online shops and delivery services.
+      Mauritius. We have collected the most popular Mauritius online shops and
+      delivery services. Our reviews are based on the customers feedbacks and
+      independent reviews available online. 
     actions:
       - label: Get Started
         url: /docs
