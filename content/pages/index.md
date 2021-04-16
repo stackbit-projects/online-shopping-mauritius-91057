@@ -76,26 +76,24 @@ sections:
           ![](/images/remarkable-neptune.jpeg)
 
 
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+          **Customers reviews:**  ⭐ ⭐ ⭐ ⭐ ⭐ Every game was fun. The way the
+          facilitators (Pascal and team) conducted the activities were very much
+          enjoyable. They could maintain the fun all along during the day. We
+          have enjoyed all the games and the way they were organised. Overall,
+          we loved the experience. At the end of the day, we could simply say
+          that it was a day to remember with colleagues. Thank you for making it
+          a success. Mie,  CODL Team building
 
 
-
-
-          We are the leading Corporate Team Building and Sport Entertainment
-          provider in Mauritius.
-
-          Passionate for teamwork and leadership, our team aim to exceed our
-          clients expectations with creative tailor-made design and professional
-          delivery of all our corporate events. With our unique activities -
-          Bowfighters Archery Paintball, Siege the Castle, KanJam Relay, Amazing
-          Race and many others - we create a unique and fascinating experience
-          for your team, producing a team bonding event that will be remembered.
-
-          We are proud to bring sports closer to people of all ages promoting
-          healthy and active lifestyle, positive energy from social
-          interactions, pure drive and fun!
+          **Description:** The leading Corporate Team Building and Sport
+          Entertainment provider in Mauritius. Passionate for teamwork and
+          leadership, TeamBuilding Mauritius aims to exceed clients expectations
+          with creative tailor-made design and professional delivery of all
+          corporate events. With [unique team building
+          activities](https://teambuilding.mu) - Bowfighters Archery Paintball,
+          Siege the Castle, KanJam Relay, Amazing Race and many others - they
+          create a unique and fascinating experience for your team, producing a
+          team bonding event that will be remembered.
         actions:
           - label: Learn More
             url: /style-guide
