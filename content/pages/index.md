@@ -79,6 +79,23 @@ sections:
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
           tincidunt ut tellus. Vivamus rhoncus mattis varius.
+
+
+
+
+          We are the leading Corporate Team Building and Sport Entertainment
+          provider in Mauritius.
+
+          Passionate for teamwork and leadership, our team aim to exceed our
+          clients expectations with creative tailor-made design and professional
+          delivery of all our corporate events. With our unique activities -
+          Bowfighters Archery Paintball, Siege the Castle, KanJam Relay, Amazing
+          Race and many others - we create a unique and fascinating experience
+          for your team, producing a team bonding event that will be remembered.
+
+          We are proud to bring sports closer to people of all ages promoting
+          healthy and active lifestyle, positive energy from social
+          interactions, pure drive and fun!
         actions:
           - label: Learn More
             url: /style-guide
