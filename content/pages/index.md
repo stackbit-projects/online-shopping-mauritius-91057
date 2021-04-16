@@ -147,10 +147,12 @@ sections:
     image: images/jamstack.svg
     image_position: left
     title: A Section With An Image
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: >
+      When shopping online, you don’t want to worry about whether your order
+      will actually arrive or whether you will get your money back in case of a
+      return. Make sure that the seller is trustworthy by checking the
+      experiences other buyers had with service, delivery and products. Use the
+      reviews to find the shops and products that perfectly fit your needs.
     actions: []
   - section_id: cta
     type: section_cta
