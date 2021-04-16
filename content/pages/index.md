@@ -23,7 +23,9 @@ sections:
           ![](/images/Flowers-delivery-Mauritius-florist-online.jpeg)
 
 
-          **Customers reviews: **⭐ ⭐ ⭐ ⭐ ⭐ Top class service. Flowers were
+
+
+          **Customers reviews:**  ⭐ ⭐ ⭐ ⭐ ⭐ Top class service. Flowers were
           fabulous, on time, and easy to order would definitely recommend.
           Samuel Rinay, Mauritius.
 
