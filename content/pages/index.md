@@ -54,8 +54,10 @@ sections:
           ![](/images/insurance-comparison-site-Mauritius.jpg)
 
 
-          \*\*Customers reviews:\*\*⭐ ⭐ ⭐ ⭐ ⭐ Very competitive quote compared
-          with my renewal quote from my existing insurers and easy to finalise
+
+
+          **Customers reviews:** ⭐ ⭐ ⭐ ⭐ ⭐ Very competitive quote compared with
+          my renewal quote from my existing insurers and easy to finalise
           everything. Bruno Appadoo, Mauritius.
 
 
