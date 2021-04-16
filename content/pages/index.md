@@ -170,7 +170,7 @@ sections:
       reviewed here - please feel free to contact us.
     actions:
       - label: Get Started
-        url: 'mailto:name@domain'
+        url: 'mailto:@domain'
         style: primary
 seo:
   title: 'Online Shopping Mauritius: Best e-Shops & Delivery Services'
