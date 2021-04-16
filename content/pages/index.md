@@ -81,7 +81,6 @@ sections:
             type: action
         type: grid_item
     title: Online shops and services in Mauritius
-    subtitle: Subtitle
   - section_id: text-img
     type: section_content
     image: images/jamstack.svg
