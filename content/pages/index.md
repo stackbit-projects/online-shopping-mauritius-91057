@@ -170,7 +170,7 @@ sections:
       reviewed here - please feel free to contact us.
     actions:
       - label: Get Started
-        url: 'mailto:arc.azarine@domain'
+        url: 'mailto:arc.azarine@gmail.com'
         style: primary
 seo:
   title: 'Online Shopping Mauritius: Best e-Shops & Delivery Services'
