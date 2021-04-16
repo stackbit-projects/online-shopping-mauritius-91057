@@ -64,7 +64,7 @@ sections:
           ## ![](/images/moving-delivery-services-Mauritius.png)
 
 
-          Lorem ipsum
+          ## Lorem ipsum
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
